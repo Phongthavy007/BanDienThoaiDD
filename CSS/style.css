@@ -1,0 +1,18 @@
+/* CSS Document style by phongthavy*/
+*{padding:0px; margin:0px;}
+.clear{clear:both;}
+body{padding:0px 50px; background-color:#F0ECEB;}
+#container{width:100%; height:auto; background-color:#F0ECEB; box-shadow:0 10px 20px rgba(0,0,0,5);}
+	/*<!--Kết thúc container-->*/
+.header{width:100%; height:200px;}
+.header>img{width:100%; height:200px;}
+	/*<!--Kết thúc header-->*/
+.menu{width:100%; height:45px; margin:10px auto; background-color:#06F;}
+	/*<!--Kết thúc menu-->*/
+.left{width:25%; height:1000px;; float:left; background-color:#FFF; padding:10px;}
+	/*<!--Kết thúc left-->*/
+.content{width:71%; height:1000px; float:right; background-color:#FFF; padding:10px;}
+	/*<!--Kết thúc content-->*/
+.footer{width:100%; height:150px; margin-top:10px; background-color:#06F;}
+	/*<!--Kết thúc footer-->*/
+
